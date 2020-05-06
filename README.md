@@ -2,6 +2,8 @@
 
 Create image with secrect message
 
+This project uses [flutter_stegify](https://pub.dev/packages/flutter_stegify) for all the heavy lifting.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
