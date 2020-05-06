@@ -1,8 +1,4 @@
-import 'dart:io';
-
 import 'package:flutter/material.dart';
-import 'package:image_picker/image_picker.dart';
-import 'package:secretimage/libs/stegify_lib.dart';
 import 'package:secretimage/screens/home_screen.dart';
 
 void main() => runApp(MyApp());
